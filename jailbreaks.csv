@@ -1,0 +1,26 @@
+Jailbreak_Name,Target_Model,Discovery_Date,Patch_Date,Method_Type
+DAN 5.0 (Do Anything Now),GPT-3.5,2023-02-04,2023-02-12,Roleplay
+Mongo Tom,GPT-3.5,2023-02-15,2023-02-22,Roleplay
+Grandma Napalm,GPT-3.5,2023-04-18,2023-04-20,Roleplay
+STAN (Strive To Avoid Norms),GPT-4,2023-05-02,2023-05-10,Roleplay
+Base64 Encoding Attack,GPT-4,2023-07-06,2023-08-15,Encoding
+Universal Suffix (GCG),Llama-2,2023-07-27,2023-09-01,Gradient Optimization
+Character Transformation (Rot13),Claude-2,2023-08-10,2023-09-05,Encoding
+Mavens Choice,Claude-2,2023-10-14,2023-10-28,Context Framing
+AIM (Always Intelligent Mode),GPT-4 Turbo,2023-11-05,2023-11-12,Roleplay
+ASCII Art Injection,GPT-4,2024-01-10,2024-02-05,Visual/Encoding
+Tree of Thoughts Jailbreak,GPT-4,2024-02-12,2024-02-19,Logical
+Math Problem Injection,Gemini Pro,2024-03-05,2024-03-12,Logical
+Multilingual Switch (Hindi),GPT-4,2024-04-01,2024-05-15,Translation
+Many-Shot Jailbreak (Anthropic),Claude-3 Opus,2024-04-08,2024-05-01,Context Window Abuse
+Crescendo Attack,Claude-3,2024-05-20,2024-05-25,Multi-turn
+Low-Resource Lang (Zulu),Llama-3,2024-06-02,2024-07-20,Translation
+Image Noise Injection,GPT-4o,2024-06-15,2024-07-05,Multimodal
+System Prompt Leak,Mistral Large,2024-07-01,2024-07-03,Prompt Injection
+Opposite Day Logic,Gemini 1.5 Pro,2024-08-10,2024-08-25,Logical
+Past Tense Hypothetical,GPT-4o,2024-09-05,2024-09-20,Context Framing
+Morse Code Input,Llama-3 70B,2024-09-15,2024-10-10,Encoding
+Persona Adoption (CEO),Claude-3.5 Sonnet,2024-10-01,2024-10-08,Roleplay
+Recursive Translation,GPT-5 Preview,2024-11-10,2024-12-05,Translation
+Invisible Text (Unicode),Gemini 1.5 Flash,2024-12-01,2025-01-15,Encoding
+Audio Frequency Shift,GPT-4o Voice,2025-01-05,2025-01-25,Multimodal
